@@ -1,0 +1,15 @@
+{
+  "name": "chp3",
+  "version": "1.0.0",
+  "description": "chapter 3 tutorial",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "express3-handlebars": "^0.5.2"
+  }
+}
